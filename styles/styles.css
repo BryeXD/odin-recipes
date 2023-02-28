@@ -19,6 +19,7 @@ body {
     font-size: 25px;
     line-height: 40px;
 }
-img {
-   
+.image1 {
+   height: 400px;
+   width: auto;
 }
